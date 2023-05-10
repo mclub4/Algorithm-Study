@@ -1679,7 +1679,12 @@
 - 카카오톡 봇 만들기
   
    - [카카오톡 봇 만들기](https://airfox1.tistory.com/2)
+
+- 슬랙 봇 만들기
+
    - [슬랙 백준 봇 만들기](https://velog.io/@chlee4858/BOJ-%EC%8A%AC%EB%9E%99%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+   - [슬랙 백준 봇 완성본](https://github.com/mclub4/BOJ-Slack)
+   - [Slack Bot Slash Command](https://hojak99.tistory.com/m/556)
 
 ### - DB
 
