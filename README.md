@@ -188,10 +188,26 @@
 - #### 응용 문제
  
   - [[실버4] ATM](https://www.acmicpc.net/problem/11399)
-  - [[실버3] 주유소](https://www.acmicpc.net/problem/13305)
+  - [[실버3] 안테나](https://www.acmicpc.net/problem/18310)(!!추천!!)
+  - [[실버3] 주유소](https://www.acmicpc.net/problem/13305)(!!추천!!)
   - [[실버1] 회의실 배정](https://www.acmicpc.net/problem/1931)
   - [[골드5] 주사위](https://www.acmicpc.net/problem/1041)
-  - [[골드2] 보석 도둑](https://www.acmicpc.net/problem/1202)
+  - [[골드5] 강의실 배정](https://www.acmicpc.net/problem/11000)
+  - [[골드5] A와 B](https://www.acmicpc.net/problem/12904)(!!추천!!)
+  - [[골드5] 센서](https://www.acmicpc.net/problem/2212)(!!추천!!)
+  - [[골드5] 행복 유치원](https://www.acmicpc.net/problem/13164)
+  - [[골드5] 도서관](https://www.acmicpc.net/problem/1461)
+  - [[골드5] 꿀 따기](https://www.acmicpc.net/problem/21758)
+  - [[골드5] 전구와 스위치](https://www.acmicpc.net/problem/2138)
+  - [[골드4] 정육점](https://www.acmicpc.net/problem/2258)
+  - [[골드4] 우체국](https://www.acmicpc.net/problem/2141)
+  - [[골드4] 돌의 정령 줄세우기](https://www.acmicpc.net/problem/24025)
+  - [[골드3] 공주님의 정원](https://www.acmicpc.net/problem/2457)
+  - [[골드2] 보석 도둑](https://www.acmicpc.net/problem/1202)(!!추천!!)
+  - [[골드2] 택배](https://www.acmicpc.net/problem/8980)
+  - [[골드2] 컵라면](https://www.acmicpc.net/problem/1781)
+  - [[골드1] 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
+  - [[골드1] 소가 길을 건너간 이유 4](https://www.acmicpc.net/problem/14464) 
 
 <br>
 
@@ -294,7 +310,6 @@
  
   - [[실버1] 절대값 힙](https://www.acmicpc.net/problem/11286)
   - [[골드4] 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
-  - [[골드2] 컵라면](https://www.acmicpc.net/problem/1781)
   - [[플레5] 최솟값 찾기](https://www.acmicpc.net/problem/11003)
 
 ### - 트리
