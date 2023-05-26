@@ -150,6 +150,8 @@
   - [[실버2] 마인크래프트](https://www.acmicpc.net/problem/18111)
   - [[골드5] 리모컨](https://www.acmicpc.net/problem/1107) (!!추천!!)
   - [[골드5] 틱택토](https://www.acmicpc.net/problem/7682)
+  - [[골드4] 램프](https://www.acmicpc.net/problem/1034)
+  - [[플레5] 쿨한 물건 구매](https://www.acmicpc.net/problem/1214) (!!추천!!)
  
 ## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/6.svg"/> [ 실버 ]
 
@@ -313,6 +315,8 @@
  
   - [[실버1] 절대값 힙](https://www.acmicpc.net/problem/11286)
   - [[골드4] 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
+  - [[골드4] 화장실의 규칙](https://www.acmicpc.net/problem/19640)
+  - [[골드2] 최대 클리크 구하기](https://www.acmicpc.net/problem/13160)
   - [[플레5] 최솟값 찾기](https://www.acmicpc.net/problem/11003)
 
 ### - 트리
@@ -409,31 +413,50 @@
   - [[실버3] 바이러스](https://www.acmicpc.net/problem/2606)
   - [[실버2] 유기농 배추](https://www.acmicpc.net/problem/1012)
   - [[실버2] 섬의 개수](https://www.acmicpc.net/problem/4963)
+  - [[실버2] 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
   - [[실버1] 미로 탐색](https://www.acmicpc.net/problem/2178)
   - [[실버1] 숨바꼭질](https://www.acmicpc.net/problem/1697)
   - [[실버1] 나이트의 이동](https://www.acmicpc.net/problem/7562)
+  - [[실버1] 그림](https://www.acmicpc.net/problem/1926) (!!추천!!)
+  - [[실버1] 미로 탐색](https://www.acmicpc.net/problem/2178) (!!추천!!)
+  - [[실버1] 현수막](https://www.acmicpc.net/problem/14716) (!!추천!!)
   - [[실버1] 안전영역](https://www.acmicpc.net/problem/2468)
   - [[골드5] 적록색약](https://www.acmicpc.net/problem/10026)
+  - [[골드5] MooTube (Silver)](https://www.acmicpc.net/problem/15591)
   - [[골드5] 토마토](https://www.acmicpc.net/problem/7576) (!!추천!!)
   - [[골드5] 토마토 (3차원)](https://www.acmicpc.net/problem/7569)
-  - [[골드5] 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
-  - [[골드5] 인구 이동](https://www.acmicpc.net/problem/16234)
+  - [[골드5] 공주님을 구해라!](https://www.acmicpc.net/problem/17836) (!!추천!!)
+  - [[골드5] 인구 이동](https://www.acmicpc.net/problem/16234) (!!추천!!)
+  - [[골드5] 상범 빌딩](https://www.acmicpc.net/problem/6593)
   - [[골드5] 파이프 옮기기1](https://www.acmicpc.net/problem/17070)
-  - [[골드5] 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
+  - [[골드5] 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) 
   - [[골드5] 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
   - [[골드4] 연구소](https://www.acmicpc.net/problem/14502)
+  - [[골드4] 이모티콘](https://www.acmicpc.net/problem/14226) (!!추천!!)
+  - [[골드4] 불](https://www.acmicpc.net/problem/5427)
   - [[골드4] 알파벳](https://www.acmicpc.net/problem/1987)
   - [[골드4] 빙산](https://www.acmicpc.net/problem/2573) (!!추천!!)
   - [[골드4] 테트리미노](https://www.acmicpc.net/problem/14500) (!!추천!!)
+  - [[골드4] 탈출](https://www.acmicpc.net/problem/3055)
   - [[골드3] 치즈](https://www.acmicpc.net/problem/2638) (!!추천!!)
+  - [[골드3] 전단지 돌리기](https://www.acmicpc.net/problem/19542)
+  - [[골드3] 서울 지하철 2호선](https://www.acmicpc.net/problem/16947)
+  - [[골드3] 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
   - [[골드3] 성곽](https://www.acmicpc.net/problem/2234)
+  - [[골드3] 소문난 칠공주](https://www.acmicpc.net/problem/1941)
   - [[골드3] 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) (!!추천!!)
   - [[골드3] 아기상어](https://www.acmicpc.net/problem/16236) (!!추천!!)
   - [[골드2] 빵집](https://www.acmicpc.net/problem/3109)
+  - [[골드2] 불켜기](https://www.acmicpc.net/problem/11967)
+  - [[골드2] 미네랄](https://www.acmicpc.net/problem/2933)
+  - [[골드2] 아맞다우산](https://www.acmicpc.net/problem/17244)
   - [[골드2] 스타트 택시](https://www.acmicpc.net/problem/19238)
   - [[골드1] 구슬 탈출2](https://www.acmicpc.net/problem/13460)
-  - [[골드1] 열쇠](https://www.acmicpc.net/problem/9328)
-  - [[플레5] 백조의 호수](https://www.acmicpc.net/problem/3197)
+  - [[골드1] 달이 차오른다, 가자](https://www.acmicpc.net/problem/1194)
+  - [[골드1] 열쇠](https://www.acmicpc.net/problem/9328) (!!추천!!)
+  - [[골드1] Metroidvania Extreme](https://www.acmicpc.net/problem/20130)
+  - [[골드1] 원수의 원수](https://www.acmicpc.net/problem/23818) (!!추천!!)
+  - [[플레5] 백조의 호수](https://www.acmicpc.net/problem/3197) (!!추천!!)
 
 ### - 백트래킹
 
@@ -451,18 +474,20 @@
   - [[실버3] N과 M(2)](https://www.acmicpc.net/problem/15650)
   - [[실버3] N과 M(3)](https://www.acmicpc.net/problem/15651)
   - [[실버3] N과 M(4)](https://www.acmicpc.net/problem/15652)
-  - [[실버3] N과 M(5)](https://www.acmicpc.net/problem/15654)
+  - [[실버3] N과 M(5)](https://www.acmicpc.net/problem/15654) (!! 추천 !!)
   - [[실버3] N과 M(6)](https://www.acmicpc.net/problem/15655)
   - [[실버2] 로또](https://www.acmicpc.net/problem/6603)
   - [[실버2] 스타트와 링크](https://www.acmicpc.net/problem/14889)
   - [[실버1] 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
-  - [[골드5] 치킨 배달](https://www.acmicpc.net/problem/15686)
-  - [[골드5] 틱택토](https://www.acmicpc.net/problem/7682)
+  - [[골드5] 치킨 배달](https://www.acmicpc.net/problem/15686) (!! 추천 !!)
+  - [[골드5] ABCDE](https://www.acmicpc.net/problem/13023)
   - [[골드5] 암호 만들기](https://www.acmicpc.net/problem/1759)
-  - [[골드4] N-Queen](https://www.acmicpc.net/problem/9663)
+  - [[골드4] N-Queen](https://www.acmicpc.net/problem/9663) (!! 추천 !!)
   - [[골드4] 스도쿠](https://www.acmicpc.net/problem/2580)
-  - [[골드4] 사격 연습](https://www.acmicpc.net/problem/27958)
-  - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100)
+  - [[골드4] 연구소](https://www.acmicpc.net/problem/14502)
+  - [[골드4] 사격 연습](https://www.acmicpc.net/problem/27958) (!! 추천 !!)
+  - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100) (!! 추천 !!)
+  - [[골드1] 비숍](https://www.acmicpc.net/problem/1799) (!! 추천 !!)
   - [[플레4] 2048(Hard)](https://www.acmicpc.net/problem/12094)
 
 [* 4장으로 바로가기](#--그래프-)
@@ -484,6 +509,7 @@
 
 - #### 응용 문제
   
+  - [[실버2] 연결 요소의 개수](https://www.acmicpc.net/problem/11724) (유니온 파인드로 더 쉽게 풀림)
   - [[골드4] 여행 가자](https://www.acmicpc.net/problem/1976) (!!추천!!)
   - [[골드4] 사이클 게임](https://www.acmicpc.net/problem/20040) (!!추천!!)
   - [[골드4] 거짓말](https://www.acmicpc.net/problem/1043)
@@ -516,13 +542,22 @@
  
   - [[골드4] 네트워크 연결](https://www.acmicpc.net/problem/1922)
   - [[골드4] 전력난](https://www.acmicpc.net/problem/6497)
+  - [[골드4] 행성 연결](https://www.acmicpc.net/problem/16398)
+  - [[골드4] 세부](https://www.acmicpc.net/problem/13905)
   - [[골드4] 도시 분할 계획](https://www.acmicpc.net/problem/1647)
-  - [[골드3] 별자리 만들기](https://www.acmicpc.net/problem/4386)
+  - [[골드3] 별자리 만들기](https://www.acmicpc.net/problem/4386) (!!추천!!)
   - [[골드3] 슬슬 가지를 먹지 않으면 죽는다](https://www.acmicpc.net/problem/27945)
   - [[골드3] 우주신과의 교감](https://www.acmicpc.net/problem/1774)
+  - [[골드3] 정복자](https://www.acmicpc.net/problem/14950)
+  - [[골드3] 나만 안되는 연애](https://www.acmicpc.net/problem/14621)
+  - [[골드3] Watering the Fields](https://www.acmicpc.net/problem/10021)
   - [[골드3] 학교 탐방하기](https://www.acmicpc.net/problem/13418) (!!추천!!)
   - [[골드3] 불우이웃돕기](https://www.acmicpc.net/problem/1414)
+  - [[골드2] 전기가 부족해](https://www.acmicpc.net/problem/10423)
+  - [[골드2] 물대기](https://www.acmicpc.net/problem/1368)
+  - [[골드1] 다리 만들기 2](https://www.acmicpc.net/problem/17472)
   - [[플레5] 행성 터널](https://www.acmicpc.net/problem/2887) (!!추천!!)
+  - [[플레3] 레드 블루 스패닝 트리](https://www.acmicpc.net/problem/4792)
 
 ### - 위상 정렬
 
@@ -561,6 +596,7 @@
   - [[골드5] 숨바꼭질3](https://www.acmicpc.net/problem/13549)
   - [[골드4] 특정한 최단 경로](https://www.acmicpc.net/problem/1504)
   - [[골드3] 웜홀](https://www.acmicpc.net/problem/1865)
+  - [[골드3] 거울 설치](https://www.acmicpc.net/problem/2151)
   - [[골드2] 미확인 도착지](https://www.acmicpc.net/problem/9370)
   - [[골드2] 골목길](https://www.acmicpc.net/problem/1738)
   - [[플레5] 할로윈 묘지](https://www.acmicpc.net/problem/3860)
@@ -777,15 +813,33 @@
 
 - #### 응용 문제
  
-  - [[실버1] 곱셈](https://www.acmicpc.net/problem/1629) (!!추천!!)
-  - [[실버1] Z](https://www.acmicpc.net/problem/1074)
-  - [[골드5] 비요뜨의 징검다리 건너기](https://www.acmicpc.net/problem/18291) (!!추천!!)
+  - [[실버2] 종이의 개수](https://www.acmicpc.net/problem/1780)
+  - [[실버1] 쿼드트리](https://www.acmicpc.net/problem/1992) (!!추천!!)
+  - [[실버1] Z](https://www.acmicpc.net/problem/1074) (!!추천!!)
+  - [[실버1] 종이 접기](https://www.acmicpc.net/problem/1802)
+  - [[골드5] 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
   - [[골드2] 피보나치의 수 6](https://www.acmicpc.net/problem/11444)
   - [[골드2] 너 봄에는 캡사이신이 맛있단다](https://www.acmicpc.net/problem/15824)
-  - [[골드1] 이항 계수 3](https://www.acmicpc.net/problem/11401) (!!추천!!)
   - [[골드1] 스카이라인](https://www.acmicpc.net/problem/1933)
+  - [[골드1] 트리의 순회](https://www.acmicpc.net/problem/2263)
   - [[플레5] 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) (!!추천!!)
   - [[플레5] 버블 소트](https://www.acmicpc.net/problem/1517)
+
+### - 분할정복을 이용한 거듭제곱
+
+- #### 알고리즘 설명
+
+  - [분할 정복을 이용한 거듭제곱](https://velog.io/@expertinpyo/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A6%AC-%EB%B6%84%ED%95%A0-%EC%A0%95%EB%B3%B5%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B1%B0%EB%93%AD%EC%A0%9C%EA%B3%B1)
+
+- #### 기본 문제
+
+  - [[실버1] 곱셈](https://www.acmicpc.net/problem/1629)
+
+- #### 응용 문제
+
+  - [[골드5] 비요뜨의 징검다리 건너기](https://www.acmicpc.net/problem/18291) (!!추천!!)
+  - [[골드4] 행렬 제곱](https://www.acmicpc.net/problem/10830)
+  - [[골드1] 이항 계수 3](https://www.acmicpc.net/problem/11401) (!!추천!!)
 
 ### - 비트 마스킹
 
