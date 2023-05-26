@@ -623,6 +623,29 @@
 
 ## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/16.svg"/> [ 플레티넘 ]
 
+### - 오프라인 쿼리
+
+- #### 알고리즘 설명
+
+  - [오프라인 쿼리](https://blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=kks227&logNo=221400731767)
+
+- #### 기본 문제
+
+  - [[플레4] 트리](https://www.acmicpc.net/problem/13306)
+
+- #### 응용 문제
+
+  - [[골드1] 통신망 분할](https://www.acmicpc.net/problem/17398)
+  - [[플레5] Closing the Farm(Gold)](https://www.acmicpc.net/problem/12012)(!! 추천 !!)
+  - [[플레5] 꼼꼼한 쿠기의 졸업여행](https://www.acmicpc.net/problem/25172)
+  - [[플레4] 수열과 쿼리 22](https://www.acmicpc.net/problem/16978)(!! 추천 !!)
+  - [[플레4] MooTube(Gold)](https://www.acmicpc.net/problem/15586)
+  - [[플레3] 마블](https://www.acmicpc.net/problem/2843)
+  - [[플레3] 일기예보](https://www.acmicpc.net/problem/14577)(!! 추천 !!)
+  - [[플레3] 트리의 색깔과 쿼리](https://www.acmicpc.net/problem/17469)
+  - [[플레3] 강수량](https://www.acmicpc.net/problem/2094)
+  - [[플레2] 부스터](https://www.acmicpc.net/problem/15955)
+
 ### - 최대 유량
 
 - #### 알고리즘 설명
