@@ -779,7 +779,6 @@
   - [[실버3] 2xn 타일링](https://www.acmicpc.net/problem/11726) (!!추천!!)
   - [[실버3] 2xn 타일링2](https://www.acmicpc.net/problem/11727)
   - [[실버3] 계단 오르기](https://www.acmicpc.net/problem/2579)
-  - [[실버2] 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
   - [[실버1] 포도주 시식](https://www.acmicpc.net/problem/2156) (!!추천!!)
   - [[실버1] RGB 거리](https://www.acmicpc.net/problem/1149)
   - [[실버1] 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
@@ -947,13 +946,22 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [가장 긴 증가하는 부분 수열 (LIS)](https://rebro.kr/33)
 
 - #### 기본 문제
-
-  - [[골드2] 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
+ 
+  - [[실버2] 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+  - [[골드2] 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)(시간복잡도 : o(nlong n))
+  - [[플레5] 가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)
 
 - #### 응용 문제
+  
+  - [[골드5] 전깃줄](https://www.acmicpc.net/problem/2565)
+  - [[골드4] 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
+  - [[골드2] 가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)
+  - [[골드2] 반도체 설계](https://www.acmicpc.net/problem/2352)
+  - [[골드2] 꼬인 전깃줄](https://www.acmicpc.net/problem/1365)
+  - [[플레5] 전깃줄 - 2](https://www.acmicpc.net/problem/2568)
 
 ### - 외판원 순회
 
