@@ -383,7 +383,62 @@
 
 - #### 응용 문제
 
+ ### - 펜윅 리트리
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+
+### - 희소배열
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - [[골드1] 합성함수와 쿼리](https://www.acmicpc.net/problem/17435)
+
  [* 3장으로 바로가기](#--자료구조-)
+ 
+<br>
+
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/16.svg"/> [ 플레티넘 ]
+ 
+ ### - 레이지 프로퍼게이션
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+ ### - 퍼시스턴트 세그먼트 트리
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+ ### - 머지 소트 트리
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+ ### - 블록 컷 트리
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
 
 <br>
 
@@ -667,13 +722,17 @@
 
 - #### 응용 문제
 
-  - [[골드1] 통신망 분할](https://www.acmicpc.net/problem/17398)
+  - [[골드1] 통신망 분할](https://www.acmicpc.net/problem/17398)(!! 추천 !!)
+  - [[골드1] XOR 그룹](https://www.acmicpc.net/problem/14258)
   - [[플레5] Closing the Farm(Gold)](https://www.acmicpc.net/problem/12012)(!! 추천 !!)
-  - [[플레5] 꼼꼼한 쿠기의 졸업여행](https://www.acmicpc.net/problem/25172)
+  - [[플레5] Pilot](https://www.acmicpc.net/problem/19670)
+  - [[플레4] 꼼꼼한 쿠기의 졸업여행](https://www.acmicpc.net/problem/25172)
   - [[플레4] 수열과 쿼리 22](https://www.acmicpc.net/problem/16978)(!! 추천 !!)
   - [[플레4] MooTube(Gold)](https://www.acmicpc.net/problem/15586)
+  - [[플레4] Snow Boots](https://www.acmicpc.net/problem/15745)
   - [[플레3] 마블](https://www.acmicpc.net/problem/2843)
   - [[플레3] 일기예보](https://www.acmicpc.net/problem/14577)(!! 추천 !!)
+  - [[플레3] 라운드 로빈 스케줄러](https://www.acmicpc.net/problem/12016)
   - [[플레3] 트리의 색깔과 쿼리](https://www.acmicpc.net/problem/17469)
   - [[플레3] 강수량](https://www.acmicpc.net/problem/2094)
   - [[플레2] 부스터](https://www.acmicpc.net/problem/15955)
@@ -690,6 +749,30 @@
 
 - #### 응용 문제
 
+### - 최소 컷 정리
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+### - 최소 비용과 최대 유량
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+
+### - 다닉 알고리즘
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
 
 ### - 강한 연결 요소
 
@@ -702,6 +785,22 @@
   - [[플레5] Strongly Connected Component](https://www.acmicpc.net/problem/2150)
 
 - #### 응용 문제
+
+### - 이중 연결 요소
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+### - 2-SAT
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
 
 ### - 이분매칭
 
@@ -781,13 +880,19 @@
   - [[실버3] 계단 오르기](https://www.acmicpc.net/problem/2579)
   - [[실버1] 포도주 시식](https://www.acmicpc.net/problem/2156) (!!추천!!)
   - [[실버1] RGB 거리](https://www.acmicpc.net/problem/1149)
+  - [[실버1] 동물원](https://www.acmicpc.net/problem/1309)
+  - [[실버1] 스티커](https://www.acmicpc.net/problem/9465) (!!추천!!)
+  - [[실버1] 카드 구매하기](https://www.acmicpc.net/problem/11052)
   - [[실버1] 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+  - [[골드5] 알약](https://www.acmicpc.net/problem/4811)
   - [[골드5] 전깃줄](https://www.acmicpc.net/problem/2565)
   - [[골드4] RGB 거리 2](https://www.acmicpc.net/problem/17404)
   - [[골드3] 파일 합치기](https://www.acmicpc.net/problem/11066)
-  - [[골드3] 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)
+  - [[골드3] 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) (!!추천!!)
+  - [[골드3] Dance Dance Revolution](https://www.acmicpc.net/problem/2342) (!!추천!!)
   - [[골드3] 색상환](https://www.acmicpc.net/problem/2482)
   - [[골드2] 로봇 조종하기](https://www.acmicpc.net/problem/2169)
+  - [[골드2] 사전](https://www.acmicpc.net/problem/1256)
   - [[골드1] 방법을 출력하지 않는 숫자 맞추기](https://www.acmicpc.net/problem/13392)
   - [[골드1] 플레이리스트](https://www.acmicpc.net/problem/12872)
   - [[골드1] 펠린드롬 분할](https://www.acmicpc.net/problem/1509)
@@ -900,7 +1005,10 @@
 
 - #### 기본 문제
 
-  - 
+
+- #### 응용 문제
+
+  - [[골드4] 공유기 설치](https://www.acmicpc.net/problem/2110)
 
 [* 5장으로 바로가기](#--dp분할-)
 
@@ -925,10 +1033,15 @@
   - [[골드5] Conins](https://www.acmicpc.net/problem/3067)
   - [[골드5] 벼락치기](https://www.acmicpc.net/problem/14728)
   - [[골드5] 수강 과목](https://www.acmicpc.net/problem/17845)
-  - [[골드4] 사탕 가게](https://www.acmicpc.net/problem/4781) 
+  - [[골드4] 사탕 가게](https://www.acmicpc.net/problem/4781)
+  - [[골드3] 시로코와 은행털기](https://www.acmicpc.net/problem/26607) 
   - [[골드3] 앱](https://www.acmicpc.net/problem/7579)
   - [[골드3] 양팔저울](https://www.acmicpc.net/problem/2629) (!!추천!!)
+  - [[골드2] 기업투자](https://www.acmicpc.net/problem/2662)
+  - [[골드2] 메이플스토리](https://www.acmicpc.net/problem/20925)
+  - [[플레5] 행운 쿠키 제작소](https://www.acmicpc.net/problem/10982)
   - [[플레4] 평범한 배낭2](https://www.acmicpc.net/problem/12920)
+  - [[플레4] MT](https://www.acmicpc.net/problem/10265)
 
 ### - 최장 공통 부분 수열 (LCS)
 
