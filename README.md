@@ -470,7 +470,6 @@
   - [[실버2] 섬의 개수](https://www.acmicpc.net/problem/4963)
   - [[실버2] 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
   - [[실버1] 미로 탐색](https://www.acmicpc.net/problem/2178)
-  - [[실버1] 숨바꼭질](https://www.acmicpc.net/problem/1697)
   - [[실버1] 나이트의 이동](https://www.acmicpc.net/problem/7562)
   - [[실버1] 그림](https://www.acmicpc.net/problem/1926) (!!추천!!)
   - [[실버1] 미로 탐색](https://www.acmicpc.net/problem/2178) (!!추천!!)
@@ -480,14 +479,12 @@
   - [[골드5] MooTube (Silver)](https://www.acmicpc.net/problem/15591)
   - [[골드5] 토마토](https://www.acmicpc.net/problem/7576) (!!추천!!)
   - [[골드5] 토마토 (3차원)](https://www.acmicpc.net/problem/7569)
-  - [[골드5] 공주님을 구해라!](https://www.acmicpc.net/problem/17836) (!!추천!!)
   - [[골드5] 인구 이동](https://www.acmicpc.net/problem/16234) (!!추천!!)
   - [[골드5] 상범 빌딩](https://www.acmicpc.net/problem/6593)
   - [[골드5] 파이프 옮기기1](https://www.acmicpc.net/problem/17070)
   - [[골드5] 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) 
   - [[골드5] 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
   - [[골드4] 연구소](https://www.acmicpc.net/problem/14502)
-  - [[골드4] 이모티콘](https://www.acmicpc.net/problem/14226) (!!추천!!)
   - [[골드4] 불](https://www.acmicpc.net/problem/5427)
   - [[골드4] 알파벳](https://www.acmicpc.net/problem/1987)
   - [[골드4] 빙산](https://www.acmicpc.net/problem/2573) (!!추천!!)
@@ -495,7 +492,6 @@
   - [[골드4] 탈출](https://www.acmicpc.net/problem/3055)
   - [[골드3] 치즈](https://www.acmicpc.net/problem/2638) (!!추천!!)
   - [[골드3] 전단지 돌리기](https://www.acmicpc.net/problem/19542)
-  - [[골드3] 서울 지하철 2호선](https://www.acmicpc.net/problem/16947)
   - [[골드3] 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
   - [[골드3] 성곽](https://www.acmicpc.net/problem/2234)
   - [[골드3] 소문난 칠공주](https://www.acmicpc.net/problem/1941)
@@ -513,7 +509,23 @@
   - [[골드1] 원수의 원수](https://www.acmicpc.net/problem/23818) (!!추천!!)
   - [[플레5] 백조의 호수](https://www.acmicpc.net/problem/3197) (!!추천!!)
 
-### - 백트래킹
+### - BFS와 최단경로
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - [[실버1] 숨바꼭질](https://www.acmicpc.net/problem/1697)
+   
+- #### 응용 문제
+
+  - [[골드5] 공주님을 구해라!](https://www.acmicpc.net/problem/17836) (!!추천!!)
+  - [[골드4] 이모티콘](https://www.acmicpc.net/problem/14226) (!!추천!!)
+ 
+
+### - DFS와 백트래킹
 
 - #### 알고리즘 설명
 
@@ -544,6 +556,24 @@
   - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100) (!! 추천 !!)
   - [[골드1] 비숍](https://www.acmicpc.net/problem/1799) (!! 추천 !!)
   - [[플레4] 2048(Hard)](https://www.acmicpc.net/problem/12094)
+
+### - DFS와 순열사이클
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+ - [[실버3] 순열 사이클 분할](https://www.acmicpc.net/problem/10451)
+ 
+- #### 심화 문제
+
+  - [[실버1] 마니또](https://www.acmicpc.net/problem/5107)
+  - [[골드4] 섞기 수열](https://www.acmicpc.net/problem/2487)
+  - [[골드3] 서울 지하철 2호선](https://www.acmicpc.net/problem/16947) (!! 추천 !!)
+  - [[골드2] Swapity Swapity Swap](https://www.acmicpc.net/problem/18783)
+  - [[플레1] 짐정리](https://www.acmicpc.net/problem/2569)
 
 [* 4장으로 바로가기](#--그래프-)
 
