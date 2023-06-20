@@ -522,6 +522,7 @@
 - #### 응용 문제
 
   - [[골드5] 공주님을 구해라!](https://www.acmicpc.net/problem/17836) (!!추천!!)
+  - [[골드4] 숨바꼭질2](https://www.acmicpc.net/problem/12851)
   - [[골드4] 이모티콘](https://www.acmicpc.net/problem/14226) (!!추천!!)
  
 
@@ -530,7 +531,6 @@
 - #### 알고리즘 설명
 
   - [백트래킹](https://fomaios.tistory.com/entry/Algorithm-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9Backtracking%EC%9D%B4%EB%9E%80)
-  - ※참고 : 그래프랑 관련이 조금 멀긴 한데, 그래프 이해하고 하는게 더 좋을 것 같에서 넣음
 
 - #### 기본 문제
 
@@ -561,11 +561,11 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [DFS로 사이클 찾기](https://velog.io/@since-1994/%EA%B7%B8%EB%9E%98%ED%94%84-Detection-cycle-%EC%82%AC%EC%9D%B4%ED%81%B4-%EC%B0%BE%EA%B8%B0)
 
 - #### 기본 문제
 
- - [[실버3] 순열 사이클 분할](https://www.acmicpc.net/problem/10451)
+ - [[실버3] 순열 사이클](https://www.acmicpc.net/problem/10451)
  
 - #### 심화 문제
 
