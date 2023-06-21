@@ -486,7 +486,6 @@
   - [[골드5] 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
   - [[골드4] 연구소](https://www.acmicpc.net/problem/14502)
   - [[골드4] 불](https://www.acmicpc.net/problem/5427)
-  - [[골드4] 알파벳](https://www.acmicpc.net/problem/1987)
   - [[골드4] 빙산](https://www.acmicpc.net/problem/2573) (!!추천!!)
   - [[골드4] 테트리미노](https://www.acmicpc.net/problem/14500) (!!추천!!)
   - [[골드4] 탈출](https://www.acmicpc.net/problem/3055)
@@ -513,7 +512,8 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [BFS는 왜 최단경로인가?](https://nulls.co.kr/graph/141)
+  - 참고로 다엑스트라랑의 차이점은 가중치가 없을때 쓰는 것이다.
 
 - #### 기본 문제
 
@@ -521,9 +521,14 @@
    
 - #### 응용 문제
 
+  - [[실버1] 미로 탐색](https://www.acmicpc.net/problem/2178) (!!추천!!)
   - [[골드5] 공주님을 구해라!](https://www.acmicpc.net/problem/17836) (!!추천!!)
+  - [[골드5] 물통](https://www.acmicpc.net/problem/2251)
+  - [[골드5] 숨바꼭질3](https://www.acmicpc.net/problem/13549)
   - [[골드4] 숨바꼭질2](https://www.acmicpc.net/problem/12851)
+  - [[골드4] 숨바꼭질4](https://www.acmicpc.net/problem/13913)
   - [[골드4] 이모티콘](https://www.acmicpc.net/problem/14226) (!!추천!!)
+  - [[플레5] 숨바꼭질5](https://www.acmicpc.net/problem/17071)
  
 
 ### - DFS와 백트래킹
@@ -543,16 +548,23 @@
   - [[실버3] N과 M(4)](https://www.acmicpc.net/problem/15652)
   - [[실버3] N과 M(5)](https://www.acmicpc.net/problem/15654) (!! 추천 !!)
   - [[실버3] N과 M(6)](https://www.acmicpc.net/problem/15655)
+  - [[실버3] N과 M(7)](https://www.acmicpc.net/problem/15656)
+  - [[실버3] N과 M(8)](https://www.acmicpc.net/problem/15657)
+  - [[실버3] N과 M(9)](https://www.acmicpc.net/problem/15663)
   - [[실버2] 로또](https://www.acmicpc.net/problem/6603)
   - [[실버2] 스타트와 링크](https://www.acmicpc.net/problem/14889)
   - [[실버1] 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
   - [[골드5] 치킨 배달](https://www.acmicpc.net/problem/15686) (!! 추천 !!)
   - [[골드5] ABCDE](https://www.acmicpc.net/problem/13023)
   - [[골드5] 암호 만들기](https://www.acmicpc.net/problem/1759)
+  - [[골드5] 계란으로 계란치기](https://www.acmicpc.net/problem/16987)
   - [[골드4] N-Queen](https://www.acmicpc.net/problem/9663) (!! 추천 !!)
   - [[골드4] 스도쿠](https://www.acmicpc.net/problem/2580)
   - [[골드4] 연구소](https://www.acmicpc.net/problem/14502)
+  - [[골드4] 감시](https://www.acmicpc.net/problem/15683)
+  - [[골드4] 알파벳](https://www.acmicpc.net/problem/1987)
   - [[골드4] 사격 연습](https://www.acmicpc.net/problem/27958) (!! 추천 !!)
+  - [[골드3] 사다리 조작](https://www.acmicpc.net/problem/15684)
   - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100) (!! 추천 !!)
   - [[골드1] 비숍](https://www.acmicpc.net/problem/1799) (!! 추천 !!)
   - [[플레4] 2048(Hard)](https://www.acmicpc.net/problem/12094)
