@@ -585,6 +585,7 @@
   - [[골드4] 섞기 수열](https://www.acmicpc.net/problem/2487)
   - [[골드3] 서울 지하철 2호선](https://www.acmicpc.net/problem/16947) (!! 추천 !!)
   - [[골드2] Swapity Swapity Swap](https://www.acmicpc.net/problem/18783)
+  - [[플레4] 사이클의 개수](https://www.acmicpc.net/problem/14441)
   - [[플레1] 짐정리](https://www.acmicpc.net/problem/2569)
 
 [* 4장으로 바로가기](#--그래프-)
