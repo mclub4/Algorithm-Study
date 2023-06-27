@@ -396,11 +396,30 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [희소배열](https://jisungbin.medium.com/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-sparse-table-%ED%9D%AC%EC%86%8C-%EB%B0%B0%EC%97%B4-95dfaf0b8ddb)
+  - 최소 공통 조상 (LCA)와 연관이 깊습니다.
 
 - #### 기본 문제
 
   - [[골드1] 합성함수와 쿼리](https://www.acmicpc.net/problem/17435)
+
+- #### 응용 문제
+
+  - [[골드1] YouTube](https://www.acmicpc.net/problem/3117)
+  - [[플레5] 개미](https://www.acmicpc.net/problem/14942)
+
+### - 최소 공통 조상 (LCA)
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - [[골드4] 가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)
+  - [[플레5] LCA 2](https://www.acmicpc.net/problem/11438)
+
+- #### 응용 문제
 
  [* 3장으로 바로가기](#--자료구조-)
  
@@ -717,18 +736,6 @@
   - [[골드4] 서강 그라운드](https://www.acmicpc.net/problem/14938)
   - [[골드4] 키 순서](https://www.acmicpc.net/problem/2458)
   - [[골드2] 폴로이드 2](https://www.acmicpc.net/problem/11780)
-
-### - 최소 공통 조상 (LCA)
-
-- #### 알고리즘 설명
-
-  - 
-
-- #### 기본 문제
-
-  - [[골드4] 가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)
-
-- #### 응용 문제
 
 ### - 이분 그래프
 
@@ -1648,6 +1655,7 @@
   - [[골드2] 어른 상어](https://www.acmicpc.net/problem/19237)
   - [[골드1] 구슬 탈출2](https://www.acmicpc.net/problem/13460)
   - [[골드1] 낚시왕](https://www.acmicpc.net/problem/17143)
+  - [[플레2] RPG EXTREME](https://www.acmicpc.net/problem/17081)
 
 <br>
 
