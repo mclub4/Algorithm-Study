@@ -527,7 +527,7 @@
   - [[골드1] 원수의 원수](https://www.acmicpc.net/problem/23818) (!!추천!!)
   - [[플레5] 백조의 호수](https://www.acmicpc.net/problem/3197) (!!추천!!)
 
-### - BFS와 최단경로
+### - BFS와 최단경로 (👍 알면 좋음 👍)
 
 - #### 알고리즘 설명
 
