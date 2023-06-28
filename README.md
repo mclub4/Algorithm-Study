@@ -396,7 +396,7 @@
 
 - #### 알고리즘 설명
 
-  - [희소배열](https://jisungbin.medium.com/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-sparse-table-%ED%9D%AC%EC%86%8C-%EB%B0%B0%EC%97%B4-95dfaf0b8ddb)
+  - [희소배열](https://hello-capo.netlify.app/algorithm-sparse-table/)
   - 최소 공통 조상 (LCA)와 연관이 깊습니다.
 
 - #### 기본 문제
