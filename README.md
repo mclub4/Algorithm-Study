@@ -102,6 +102,10 @@
   - [CodeForces](http://codeforces.com/)
   - [AtCoder](https://atcoder.jp/)
   - [LeetCode](https://leetcode.com/)
+ 
+### - 백준 문제 내 풀이
+
+  - [백준 문제 내 풀이 정리](https://somber-purple-9f8.notion.site/36cbcd2d6b0d4bb9b9b3db6d77ff54fd?pvs=4)
     
 <br>
 
