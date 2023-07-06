@@ -627,16 +627,16 @@
 - #### 응용 문제
   
   - [[실버2] 연결 요소의 개수](https://www.acmicpc.net/problem/11724) (유니온 파인드로 더 쉽게 풀림)
-  - [[골드4] 여행 가자](https://www.acmicpc.net/problem/1976) (!!추천!!)
-  - [[골드4] 사이클 게임](https://www.acmicpc.net/problem/20040) (!!추천!!)
+  - [[골드4] 여행 가자](https://www.acmicpc.net/problem/1976) (❗추천❗)
+  - [[골드4] 사이클 게임](https://www.acmicpc.net/problem/20040) (❗추천❗)
   - [[골드4] 거짓말](https://www.acmicpc.net/problem/1043)
   - [[골드4] 친구비](https://www.acmicpc.net/problem/16562)
-  - [[골드3] 피리 부는 사나이](https://www.acmicpc.net/problem/16724) (!!추천!!)
-  - [[골드2] 친구 네트워크](https://www.acmicpc.net/problem/4195) (!!추천!!)
+  - [[골드3] 피리 부는 사나이](https://www.acmicpc.net/problem/16724) (❗추천❗)
+  - [[골드2] 친구 네트워크](https://www.acmicpc.net/problem/4195) (❗추천❗)
   - [[골드2] 공항](https://www.acmicpc.net/problem/10775)
   - [[골드1] 통신말 분할](https://www.acmicpc.net/problem/17398)
   - [[플레5] 네트워크 연결](https://www.acmicpc.net/problem/3780)
-  - [[플레3] 교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)
+  - [[플레3] 교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830) (❗추천❗)
 
 ### - 최소 스패닝 트리 (MST) (⭐ 중요 ⭐)
 
@@ -772,16 +772,17 @@
 
 - #### 응용 문제
 
-  - [[골드1] 통신망 분할](https://www.acmicpc.net/problem/17398)(!! 추천 !!)
+  - [[골드1] 통신망 분할](https://www.acmicpc.net/problem/17398) (❗추천❗)
   - [[골드1] XOR 그룹](https://www.acmicpc.net/problem/14258)
-  - [[플레5] Closing the Farm(Gold)](https://www.acmicpc.net/problem/12012)(!! 추천 !!)
+  - [[플레5] Closing the Farm(Gold)](https://www.acmicpc.net/problem/12012) (❗추천❗)
   - [[플레5] Pilot](https://www.acmicpc.net/problem/19670)
   - [[플레4] 꼼꼼한 쿠기의 졸업여행](https://www.acmicpc.net/problem/25172)
-  - [[플레4] 수열과 쿼리 22](https://www.acmicpc.net/problem/16978)(!! 추천 !!)
+  - [[플레4] 수열과 쿼리 22](https://www.acmicpc.net/problem/16978) (❗추천❗)
   - [[플레4] MooTube(Gold)](https://www.acmicpc.net/problem/15586)
   - [[플레4] Snow Boots](https://www.acmicpc.net/problem/15745)
   - [[플레3] 마블](https://www.acmicpc.net/problem/2843)
-  - [[플레3] 일기예보](https://www.acmicpc.net/problem/14577)(!! 추천 !!)
+  - [[플레3] 교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)(오프라인쿼리로 더 쉽게풀림) (❗추천❗)
+  - [[플레3] 일기예보](https://www.acmicpc.net/problem/14577) (❗추천❗)
   - [[플레3] 라운드 로빈 스케줄러](https://www.acmicpc.net/problem/12016)
   - [[플레3] 트리의 색깔과 쿼리](https://www.acmicpc.net/problem/17469)
   - [[플레3] 강수량](https://www.acmicpc.net/problem/2094)
