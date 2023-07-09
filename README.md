@@ -1143,6 +1143,14 @@
 
 - #### 응용 문제
 
+  - [[골드1] 외판원 순회3](https://www.acmicpc.net/problem/16991)
+  - [[골드1] KUBC League (Small)](https://www.acmicpc.net/problem/14590)
+  - [[골드1] 문시티 건설](https://www.acmicpc.net/problem/4888)
+  - [[골드1] Pokemon Go Go](https://www.acmicpc.net/problem/16385)
+  - [[플레5] 두 단계 최단 경로 4](https://www.acmicpc.net/problem/23840)
+  - [[플레5] Bottleneck Travelling Salesman Problem (Large)](https://www.acmicpc.net/problem/24519) (❗추천❗)
+  - [[플레4] Island Travels](https://www.acmicpc.net/problem/5852)
+
 [* 5장으로 바로가기](#--dp분할-)
 
 <br>
