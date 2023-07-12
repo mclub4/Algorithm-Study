@@ -387,6 +387,8 @@
 
 - #### 응용 문제
 
+  - [[플레2] 화성 지도](https://www.acmicpc.net/problem/3392)
+
  ### - 펜윅 트리
 
 - #### 알고리즘 설명
@@ -1005,7 +1007,6 @@
 - #### 알고리즘 설명
 
   - [비트마스킹](https://rebro.kr/63)
-  - [DP와 비트마스킹](https://anz1217.tistory.com/39)
 
 - #### 참고 자료
 
@@ -1131,6 +1132,36 @@
   - [[골드2] 꼬인 전깃줄](https://www.acmicpc.net/problem/1365)
   - [[플레5] 전깃줄 - 2](https://www.acmicpc.net/problem/2568)
 
+### - 비트마스킹 DP (👍 알면 좋음 👍)
+
+- #### 알고리즘 설명
+
+  - [DP와 비트마스킹](https://anz1217.tistory.com/39)
+
+- #### 기본 문제
+
+  - [[골드1] 계단수](https://www.acmicpc.net/problem/1562)
+
+- #### 응용 문제
+
+  - [[골드1] 그림 교환](https://www.acmicpc.net/problem/1029)
+  - [[골드1] 할 일 정하기 1](https://www.acmicpc.net/problem/1311)
+  - [[골드1] 보석 모으기](https://www.acmicpc.net/problem/1480)
+  - [[골드1] 끝말잇기](https://www.acmicpc.net/problem/2320)
+  - [[골드1] 섞기](https://www.acmicpc.net/problem/1176)
+  - [[골드1] 울타리](https://www.acmicpc.net/problem/1139)
+  - [[플레5] 발전소](https://www.acmicpc.net/problem/1102)
+  - [[플레5] 007](https://www.acmicpc.net/problem/3056)
+  - [[플레5] 박성원](https://www.acmicpc.net/problem/1086)
+  - [[플레5] 파산하는 왕국](https://www.acmicpc.net/problem/3405)
+  - [[플레4] 체스로 도미노를 타자](https://www.acmicpc.net/problem/9936)
+  - [[플레4] 프리스비](https://www.acmicpc.net/problem/10649)
+  - [[플레3] 두부장수 장홍준](https://www.acmicpc.net/problem/1657)
+  - [[플레3] 격자판 채우기](https://www.acmicpc.net/problem/1648)
+  - [[플레2] 막대 정사각형](https://www.acmicpc.net/problem/4348)
+  - [[다이아5] 내가 어렸을 때 가지고 놀던 장난감](https://www.acmicpc.net/problem/2803)
+
+
 ### - 외판원 순회 (👍 알면 좋음 👍)
 
 - #### 알고리즘 설명
@@ -1150,6 +1181,7 @@
   - [[플레5] 두 단계 최단 경로 4](https://www.acmicpc.net/problem/23840)
   - [[플레5] Bottleneck Travelling Salesman Problem (Large)](https://www.acmicpc.net/problem/24519) (❗추천❗)
   - [[플레4] Island Travels](https://www.acmicpc.net/problem/5852)
+
 
 [* 5장으로 바로가기](#--dp분할-)
 
